@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Gamified Patient Registration Platform")
+    st.title("Patient Registration Platform")
 
     # Sidebar with user registration
     with st.sidebar:
